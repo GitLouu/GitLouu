@@ -1,2 +1,2 @@
 #### Funny Projects
-* [BiliBang](https://github.com/GitLouu/BiliBang)
+* [BiliBang](https://gitee.com/GiteeLou/BiliBang)
